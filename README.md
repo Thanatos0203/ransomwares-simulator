@@ -89,3 +89,11 @@ Copy code
 2. Customize the GitHub repository link in the installation section.
 
 Let me know if you'd like any further modifications! &#8203;:contentReference[oaicite:0]{index=0}&#8203;
+
+
+![Screenshot 2024-08-25 213858](https://github.com/user-attachments/assets/e6515d5b-8984-49d2-a967-6fbce740604f)
+
+![Screenshot 2024-08-25 213838](https://github.com/user-attachments/assets/285ea07b-fa31-41c8-95ec-c12ede305f98)
+
+
+
